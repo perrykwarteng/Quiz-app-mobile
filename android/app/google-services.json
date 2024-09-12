@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029739909507",
+    "project_id": "atuquizapp",
+    "storage_bucket": "atuquizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029739909507:android:8674d9c00e752a7abda6b6",
+        "android_client_info": {
+          "package_name": "com.example.atuquizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4O18yCcEF2FCDgZDv1Ohsobaqb4iltjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
